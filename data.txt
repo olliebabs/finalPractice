@@ -1,7 +1,8 @@
 testFile
-1
-2
-3
 4
+3
+2
+1
 new change for branch2
 extra change on branch2
+brnach 3 edit
