@@ -7,3 +7,4 @@ branch22
 new change for branch2
 extra change on branch2
 testforfile2
+newfinalLine
