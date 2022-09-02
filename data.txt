@@ -1,9 +1,13 @@
 testFile
 <<<<<<< .merge_file_MkjtqR
 1
+fixed
+
+branch2changed ehe
+fixed *2
 branch22
 3
->>>>>>> .merge_file_6qo8LS
+fixed *3
 4
 3
 2
