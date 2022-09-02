@@ -1,10 +1,14 @@
 testFile
-<<<<<<< .merge_file_MkjtqR
+top line------------
 1
+
 fixed
 
 branch2changed ehe
 fixed *2
+=======
+branch2changed ehe
+>>>>>>> .merge_file_i5zc6l
 branch22
 3
 fixed *3
@@ -15,3 +19,6 @@ fixed *3
 new change for branch2
 extra change on branch2
 brnach 3 edit
+=======
+testforfile2
+final liine
