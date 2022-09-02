@@ -1,4 +1,9 @@
 testFile
+<<<<<<< .merge_file_MkjtqR
+1
+branch22
+3
+>>>>>>> .merge_file_6qo8LS
 4
 3
 2
